@@ -4,6 +4,10 @@
 
 ## Установка: 
 
+git clone https://github.com/HashLuckyCFG/Choizzy-Waitlist.git
+
+cd Choizzy-Waitlist
+
 pip install -r requirements.txt
 
 Перед началом работы добавьте ваши адреса SOL в файл "addresses.txt".
@@ -20,6 +24,10 @@ py main.py
 - Add your wallets to the Waitlist on Choizzy
 
 ## Installation:
+
+git clone https://github.com/HashLuckyCFG/Choizzy-Waitlist.git
+
+cd Choizzy-Waitlist
 
 pip install -r requirements.txt
 
